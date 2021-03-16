@@ -1,0 +1,355 @@
+﻿main_category,sub_category,Factor,spearman_correlation,p_value_for_spearman
+MARKETING CHANNELS,Channels Received,Cinema Advertising,0.921,0
+FINANCE,Household Annual Income,"100,000+",0.91,0
+MARKETING CHANNELS,Channels Received,Email,0.909,0
+DIGITAL,Regularly research on the internet,Holidays,0.906,0
+MARKETING CHANNELS,Future Responses,Telemarketing,0.904,0
+FINANCE,Household Annual Income,"60,000-80,000",0.895,0
+FINANCE,Household Annual Income,"80,000-100,000",0.895,0
+FINANCE,Household Annual Income,Average Household Income,0.893,0
+FINANCE,Insurance and Pensions,Has Company Health Care,0.892,0
+DIGITAL,Tablet Devices,"Has Tablet (e.g. iPad, Samsung Galaxy Tab, Sony Xperia)",0.891,0
+SHOPPING,Preferred Supermarket,M & S,0.891,0
+ECONOMY,NS Socio-Economic Classifications,"Higher managerial, administrative and professional occupations",0.89,0
+COMMUNITY SAFETY,Crime Survey for England,Taking everything into account I have confidence in the police in this area,0.888,0
+LEISURE TIME,Holiday Destination/Type,Activity / Outdoor Sports,0.888,0
+ECONOMY,Social Grade,B,0.887,0
+FINANCE,Expenditure per person per week,Restaurants and hotels,0.887,0
+DIGITAL,Regularly research on the internet,Hotel reservations,0.887,0
+DIGITAL,Sites regularly visited,Marks and Spencer,0.887,0
+MARKETING CHANNELS,Channels Received,Posters,0.886,0
+ENVIRONMENT,Environmental Groups,Member of Environmental Group,0.886,0
+SHOPPING,Clothing & Footwear Stores,Mass Market,0.88,0
+FINANCE,Financial Situation,Saving a lot,0.879,0
+FINANCE,Financial Channel: Arrange considered financial product,Online,0.878,0
+HEALTH,Behaviours & Lifestyle,Takes regular exercise,0.874,0
+EDUCATION,England: Pupils at the end of KS2,"Achieving expected level in reading, writing and maths",0.871,1.00E-05
+DIGITAL,Types of internet usage : Laptop or PC,Check stocks/shares/investments,0.87,1.00E-05
+SHOPPING,Attitudes,I check a number of sources before making a significant purchase,0.867,1.00E-05
+LEISURE TIME,Magazines Read,Sport,0.866,1.00E-05
+MARKETING CHANNELS,Channels Received,Internet Advertising,0.863,1.00E-05
+SHOPPING,Preferred Supermarket,Waitrose,0.863,1.00E-05
+DIGITAL,Sites regularly visited,Notonthehighstreet.com,0.862,1.00E-05
+DIGITAL,Regularly research on the internet,Books,0.861,1.00E-05
+EDUCATION,England: Pupils at the end of KS4,Achieving 5+ A*-C (including English and Maths) at GCSE or equivalent,0.86,1.00E-05
+EDUCATION,England: Pupils at the end of KS4,Achieving 5+ A*-C at GCSE or equivalent,0.859,1.00E-05
+DIGITAL,Sites regularly visited,Moneysavingexpert.com,0.856,1.00E-05
+SHOPPING,Attitudes,I am prepared to pay more for products that make life easier,0.856,1.00E-05
+DIGITAL,Types of internet usage : Tablet / iPad,Book tickets via the Internet,0.854,1.00E-05
+DIGITAL,Sites regularly visited,Lastminute.com,0.853,1.00E-05
+DIGITAL,Regularly research on the internet,Current Accounts,0.851,1.00E-05
+DIGITAL,Types of internet usage : Tablet / iPad,Listen to the radio,0.85,2.00E-05
+DIGITAL,Purchased on the internet,"Household utilities (e.g. Gas, Electricity)",0.85,2.00E-05
+EDUCATION,Scotland: Pupils in the S4 cohort,Attained 5 awards at SCQF level 5 and above,0.848,2.00E-05
+DIGITAL,Types of internet usage : Tablet / iPad,Access news via news site (other than online newspapers),0.848,2.00E-05
+DIGITAL,Purchased on the internet,Hotel reservations,0.848,2.00E-05
+FINANCE,Credit Cards,Spent 500+ in last month on a credit card,0.847,2.00E-05
+EDUCATION,Highest Level of Qualifications (Adults),Degree or higher degree,0.846,2.00E-05
+EDUCATION,Scotland: Pupils in the S5 cohort,Attained 3 awards at SCQF level 6 and above,0.846,2.00E-05
+EDUCATION,Scotland: Pupils in the S5 cohort,Attained 5 awards at SCQF level 6 and above,0.846,2.00E-05
+DIGITAL,Regularly research on the internet,Sports equipment,0.846,2.00E-05
+TRANSPORT,Main Car Class,Luxury or Executive,0.844,2.00E-05
+EDUCATION,England: Pupils at the end of KS2,Achieving expected level in maths,0.843,2.00E-05
+FINANCE,Credit Cards,Has 2+ credit cards,0.843,2.00E-05
+FINANCE,Insurance and Pensions,Plans to use other investments for retirement,0.842,2.00E-05
+SHOPPING,Furniture & Fittings Stores,Premium,0.842,2.00E-05
+DIGITAL,Types of internet usage : Tablet / iPad,Read newspapers online,0.841,2.00E-05
+DIGITAL,Purchased on the internet,"Other Insurance (e.g. Life, Travel)",0.839,3.00E-05
+MARKETING CHANNELS,Future Responses,Internet Advertising,0.836,3.00E-05
+FINANCE,Expenditure per person per week,Total Online Expenditure,0.835,3.00E-05
+SHOPPING,Food Shopping,Fairtrade,0.835,3.00E-05
+LEISURE TIME,Daily Newspapers,Daily Telegraph,0.834,3.00E-05
+DIGITAL,Regularly research on the internet,"Other Insurance (e.g. Life, Travel)",0.833,3.00E-05
+SHOPPING,Preferred Supermarket,Sainsburys,0.831,4.00E-05
+ECONOMY,NS Socio-Economic Classifications,"Lower managerial, administrative and professional occupations",0.83,4.00E-05
+LEISURE TIME,Charities,Regularly donate to charity,0.83,4.00E-05
+ECONOMY,Social Grade,A,0.828,4.00E-05
+FINANCE,Financial Channel: Arrange considered financial product,By phone,0.828,4.00E-05
+DIGITAL,Internet Access: Usage in Last Week,8-19 hours,0.828,4.00E-05
+FINANCE,Expenditure per person per week,Total Expenditure,0.825,5.00E-05
+ENVIRONMENT,Action,Rarely keep the tap running while brushing teeth,0.825,5.00E-05
+EDUCATION,England: Pupils at the end of KS2,Achieving expected level in writing,0.824,5.00E-05
+DIGITAL,Types of internet usage : Tablet / iPad,Manage personal finances (banking) via the Internet,0.821,5.00E-05
+DIGITAL,Regularly research on the internet,Beer/Wine/Spirits,0.821,5.00E-05
+DIGITAL,Purchased on the internet,Savings/Investments,0.82,6.00E-05
+DIGITAL,Types of internet usage : Tablet / iPad,Read someone elses blog,0.819,6.00E-05
+EDUCATION,England: Pupils at the end of KS2,Achieving expected level in reading,0.818,6.00E-05
+DIGITAL,Regularly research on the internet,Eating out,0.818,6.00E-05
+DIGITAL,Regularly research on the internet,Airline tickets,0.818,6.00E-05
+SHOPPING,Attitudes,It's worth paying extra for quality goods,0.817,6.00E-05
+DIGITAL,Types of internet usage : Laptop or PC,Book tickets via the Internet,0.816,6.00E-05
+DIGITAL,Purchased on the internet,Holidays,0.816,7.00E-05
+DIGITAL,Regularly research on the internet,Tickets for events/cinema/theatre,0.815,7.00E-05
+DIGITAL,Types of internet usage : Tablet / iPad,Send and receive personal emails,0.813,7.00E-05
+DIGITAL,Purchased on the internet,Books,0.812,8.00E-05
+LEISURE TIME,Restaurants - Most Often,Premium,0.812,8.00E-05
+DIGITAL,Regularly research on the internet,Savings/Investments,0.811,8.00E-05
+FINANCE,Financial Situation,Saving,0.81,8.00E-05
+DIGITAL,Technology at Home,"Has a smartwatch, fitness band or payment band",0.81,8.00E-05
+SHOPPING,Attitudes,I tend to go for premium rather than standard goods/services,0.809,8.00E-05
+FINANCE,Credit Cards,Has credit card,0.807,9.00E-05
+DIGITAL,Types of internet usage : Tablet / iPad,Take pictures/video clips,0.807,9.00E-05
+DIGITAL,Types of internet usage : Tablet / iPad,Watch TV/films/video clips via the Internet,0.807,9.00E-05
+DIGITAL,Types of internet usage : Tablet / iPad,Donate to charity,0.806,9.00E-05
+DIGITAL,Purchased on the internet,Tickets for events/cinema/theatre,0.804,0.0001
+DIGITAL,Sites regularly visited,bbc.co.uk,0.804,0.0001
+DIGITAL,Sites regularly visited,johnlewis.com,0.804,0.0001
+DIGITAL,Sites regularly visited,Tripadvisor,0.803,0.00011
+SHOPPING,Electrical Stores,Premium,0.803,0.0001
+DIGITAL,Types of internet usage : Tablet / iPad,Watch online videos made by other users (e.g. YouTube),0.801,0.00011
+EDUCATION,England: Pupils at the end of KS1,Achieving expected level in reading,0.8,0.00012
+FINANCE,Savings and Investments,Has instant access account,0.8,0.00012
+FINANCE,Savings and Investments,Has stocks and shares,0.8,0.00012
+DIGITAL,Regularly research on the internet,Days out,0.8,0.00011
+DIGITAL,Purchased on the internet,"Music (e.g. CDs, MP3s)",0.8,0.00012
+SHOPPING,Clothing & Footwear Stores,Premium,0.8,0.00011
+LEISURE TIME,Charities,Overseas Development,0.8,0.00011
+FINANCE,Insurance and Pensions,Has pension scheme organised personally,0.799,0.00012
+DIGITAL,Sites regularly visited,iTunes,0.798,0.00013
+FINANCE,Savings and Investments,Has Stocks and Shares ISA,0.797,0.00013
+LEISURE TIME,Daily Newspapers,The Times,0.797,0.00013
+FINANCE,Savings and Investments,"Value of investments 25,000+",0.796,0.00013
+DIGITAL,Types of internet usage : Tablet / iPad,Read magazines online,0.795,0.00014
+FINANCE,Credit Cards,Uses credit card 6+ times per month,0.794,0.00014
+FINANCE,Financial Channel: Manage Savings Account,Online at home or work,0.793,0.00014
+HOUSING,House Size,Number of Beds : 5 plus,0.792,0.00015
+EDUCATION,England: Pupils at the end of KS1,Achieving expected level in writing,0.792,0.00015
+FINANCE,Savings and Investments,"Savings value 10,000+",0.792,0.00015
+MARKETING CHANNELS,Channels Received,Leaflets/Samples handed out in the street or picked up in shop,0.791,0.00016
+FINANCE,Financial Channel: Manage Savings Account,By phone,0.79,0.00016
+FINANCE,Expenditure per person per week,Education,0.79,0.00016
+DIGITAL,Regularly research on the internet,Travel tickets (non airline),0.79,0.00016
+DIGITAL,Regularly research on the internet,Clothes/Accessories,0.786,0.00018
+FINANCE,Financial Channel: Manage Current Account,Online at home or work,0.785,0.00019
+DIGITAL,Types of internet usage : Tablet / iPad,Use Skype,0.785,0.00019
+FINANCE,Savings and Investments,Has Investments,0.784,0.0002
+FINANCE,Financial Channel: Arrange considered financial product,By post,0.784,0.0002
+FINANCE,Expenditure per person per week,Health,0.784,0.00019
+DIGITAL,Sites regularly visited,National Rail,0.783,0.0002
+DIGITAL,Sites regularly visited,Moneysupermarket.com,0.782,0.00021
+MARKETING CHANNELS,Future Responses,Newspaper / Magazine Adverts,0.781,0.00022
+LEISURE TIME,Interests & Hobbies,Foreign Travel,0.781,0.00022
+FINANCE,Expenditure per person per week,Miscellaneous goods and services,0.78,0.00022
+FINANCE,Financial Channel: Manage Savings Account,Online,0.779,0.00023
+DIGITAL,Types of internet usage : Tablet / iPad,Listen to Music,0.778,0.00024
+DIGITAL,Purchased on the internet,None of these,0.778,0.00023
+FINANCE,Financial Channel: Manage Current Account,By phone,0.777,0.00024
+DIGITAL,Purchased on the internet,Clothes/Accessories,0.775,0.00026
+DIGITAL,Sites regularly visited,Ticketmaster,0.775,0.00026
+DIGITAL,Purchased on the internet,Airline tickets,0.774,0.00027
+DIGITAL,Sites regularly visited,Amazon.co.uk,0.774,0.00026
+LEISURE TIME,Interests & Hobbies,Exercise / Sports,0.773,0.00027
+DIGITAL,Technology at Home,Portable Media Player,0.772,0.00028
+FINANCE,Insurance and Pensions,Has Private Health Care,0.771,0.00029
+DIGITAL,Sites regularly visited,Myvouchercodes,0.77,0.0003
+DIGITAL,Internet Access: Frequency,Weekly,0.769,0.00031
+EDUCATION,England: Pupils at the end of KS1,Achieving expected level in maths,0.768,0.00031
+DIGITAL,Types of internet usage : Tablet / iPad,Post ratings and reviews,0.768,0.00032
+HOUSING,House Size,Number of Beds : 4,0.767,0.00033
+MARKETING CHANNELS,Future Responses,Mail - Addressed to you by name,0.766,0.00034
+FINANCE,Financial Channel: Arrange considered financial product,Used IFA,0.766,0.00033
+LEISURE TIME,Holiday Destination/Type,Self-catering,0.764,0.00035
+FINANCE,Credit Cards,Always pays credit card balance in full,0.762,0.00037
+FINANCE,Expenditure per person per week,"Furnishings, household equipment and routine maintenance",0.757,0.00044
+FINANCE,Expenditure per person per week,Transport,0.757,0.00043
+DIGITAL,Types of internet usage : Laptop or PC,Send pictures/videos to others,0.757,0.00044
+DIGITAL,Types of internet usage : Tablet / iPad,Locate places/shops/businesses via the Internet,0.757,0.00044
+DIGITAL,Types of internet usage : Tablet / iPad,Download a Podcast,0.757,0.00044
+DIGITAL,Types of internet usage : Tablet / iPad,Read customer ratings/reviews,0.754,0.00047
+EDUCATION,England: Pupils at the end of KS1,Achieving expected level in science,0.753,0.00048
+FINANCE,Savings and Investments,Has savings account,0.753,0.00049
+FINANCE,Savings and Investments,Has investment bonds,0.753,0.00049
+FINANCE,Financial Channel: Arrange commoditised financial product,By post,0.753,0.00049
+DIGITAL,Types of internet usage : Tablet / iPad,Make an online purchase,0.753,0.00048
+DIGITAL,Purchased on the internet,Travel tickets (non airline),0.752,0.00049
+DIGITAL,Types of internet usage : Laptop or PC,Locate places/shops/businesses via the Internet,0.751,0.00051
+MARKETING CHANNELS,Channels Received,Newspaper / Magazine Adverts,0.746,0.00058
+DIGITAL,Smartphone Brand,iPhone,0.745,0.0006
+LEISURE TIME,Daily Newspapers,The Guardian,0.741,0.00066
+DIGITAL,Types of internet usage : Laptop or PC,Read customer ratings/reviews,0.74,0.00069
+SHOPPING,Food Shopping,Premium Ranges,0.739,0.00069
+LEISURE TIME,Restaurants - Most Often,Mass Market,0.737,0.00073
+FINANCE,Savings and Investments,Has Cash ISA,0.735,0.00077
+DIGITAL,Types of internet usage : Tablet / iPad,Use GPS services (e.g. Maps),0.735,0.00079
+FINANCE,Financial Channel: Manage Current Account,Online,0.732,0.00083
+MARKETING CHANNELS,Future Responses,Cinema Advertising,0.731,0.00086
+DIGITAL,Types of internet usage : Laptop or PC,School/College/University work,0.731,0.00086
+FINANCE,Savings and Investments,"Savings value 2,500 - 10,000",0.729,0.0009
+DIGITAL,Types of internet usage : Tablet / iPad,Source info on products/services via Internet,0.729,0.0009
+DIGITAL,Types of internet usage : Mobile Phone,Download music via the Internet,0.724,0.00101
+HOUSING,House Value,House Value 1m+,0.723,0.00105
+DIGITAL,Types of internet usage : Tablet / iPad,Check stocks/shares/investments,0.722,0.00106
+FINANCE,Household Annual Income,"40,000-60,000",0.721,0.0011
+DIGITAL,Types of internet usage : Mobile Phone,Take pictures/video clips,0.721,0.00109
+DIGITAL,Types of internet usage : Mobile Phone,Send and receive personal emails,0.72,0.00111
+LEISURE TIME,Holiday Destination/Type,Africa,0.72,0.00112
+FINANCE,Financial Channel: Arrange Current Account,Online,0.719,0.00116
+HOUSING,House Tenure,Mortgaged,0.718,0.00116
+HEALTH,Behaviours & Lifestyle,I am perfectly happy with my standard of living,0.715,0.00127
+DIGITAL,Types of internet usage : Laptop or PC,Make an online purchase,0.713,0.00133
+DIGITAL,Types of internet usage : Laptop or PC,Use Skype,0.712,0.00134
+DIGITAL,Social Media Brands (used at least weekly),LinkedIn,0.711,0.00138
+LEISURE TIME,Holiday Destination/Type,Caribbean,0.711,0.00138
+DIGITAL,Regularly research on the internet,Property,0.71,0.0014
+DIGITAL,Types of internet usage : Mobile Phone,Locate places/shops/businesses via the Internet,0.709,0.00145
+DIGITAL,Types of internet usage : Laptop or PC,Source info on products/services via Internet,0.707,0.00151
+TRANSPORT,Car Ownership,Number of Cars 2,0.706,0.00154
+FINANCE,Savings and Investments,Has Unit Trusts,0.706,0.00154
+COMMUNITY SAFETY,Crime Survey for England,Breakdown of family,0.703,0.00166
+DIGITAL,Types of internet usage : Mobile Phone,Receive/Redeem coupons and vouchers,0.702,0.00169
+DIGITAL,Purchased on the internet,Days out,0.701,0.00172
+FINANCE,Financial Situation,Saving a little,0.699,0.00181
+DIGITAL,Purchased on the internet,Home Insurance,0.698,0.00184
+DIGITAL,Types of internet usage : Mobile Phone,Source info on products/services via Internet,0.696,0.00193
+DIGITAL,Purchased on the internet,Household electrical products,0.696,0.00191
+FINANCE,Savings and Investments,"Savings value 500 - 2,500",0.694,0.002
+DIGITAL,Types of internet usage : Laptop or PC,Send and receive personal emails,0.694,0.00201
+ECONOMY,Economic Activity,Self-employed,0.693,0.00205
+SHOPPING,Electrical Stores,Mass Market,0.692,0.0021
+DIGITAL,Number of apps on mobile phone (free or paid),21-30,0.69,0.00217
+FINANCE,Financial Channel: Arrange commoditised financial product,Online,0.689,0.00223
+MARKETING CHANNELS,Future Responses,Posters,0.688,0.00227
+ECONOMY,Occupation,Professional,0.685,0.00239
+FINANCE,Expenditure per person per week,Recreation and Culture,0.685,0.00239
+DIGITAL,Internet Access: Usage in Last Week,20 hours or more,0.685,0.00243
+DIGITAL,Types of internet usage : Tablet / iPad,Send pictures/videos to others,0.685,0.00241
+DIGITAL,Regularly research on the internet,"Household utilities (e.g. Gas, Electricity)",0.685,0.00243
+HOUSING,House Type,Detached house,0.684,0.00247
+DIGITAL,Regularly research on the internet,Sports and Leisurewear/trainers,0.684,0.00246
+CONTACT,Preferred Channel,Mail,0.683,0.00249
+LEISURE TIME,Magazines Read,Motor,0.683,0.00251
+POPULATION,Country of Birth,North America,0.681,0.0026
+DIGITAL,Types of internet usage : Mobile Phone,Use GPS services (e.g. Maps),0.68,0.00268
+DIGITAL,Types of internet usage : Tablet / iPad,Online auctions (e.g. ebay),0.679,0.00275
+DIGITAL,Types of internet usage : Tablet / iPad,"Social networking (e.g. Facebook, Twitter)",0.679,0.00275
+SHOPPING,High Street Retailers,John Lewis,0.679,0.00273
+FINANCE,Expenditure per person per week,Clothing and footwear,0.677,0.00284
+DIGITAL,Sites regularly visited,Quidco,0.676,0.00291
+DIGITAL,Types of internet usage : Mobile Phone,Access news via news site (other than online newspapers),0.674,0.00303
+MARKETING CHANNELS,Channels Received,Mail - Addressed to you by name,0.672,0.00311
+DIGITAL,Digital Attitudes,Shopping online makes my life easier,0.672,0.00315
+SHOPPING,Attitudes,Shopping online makes my life easier,0.672,0.00315
+DIGITAL,Types of internet usage : Mobile Phone,Check stocks/shares/investments,0.667,0.00342
+DIGITAL,Types of internet usage : Tablet / iPad,Enter competitions,0.667,0.00342
+LEISURE TIME,Holiday Destination/Type,USA / Canada,0.665,0.00355
+COMMUNITY SAFETY,Crime Survey for England,Poverty,0.664,0.00364
+FINANCE,Expenditure per person per week,Food and non-alcoholic beverages,0.663,0.00375
+DIGITAL,Purchased on the internet,"Personal grooming products ( e.g. skin care, fragrances, etc.)",0.663,0.00375
+ECONOMY,Occupation,Director / Managerial,0.662,0.00381
+DIGITAL,Types of internet usage : Laptop or PC,Manage personal finances (banking) via the Internet,0.659,0.00402
+DIGITAL,Types of internet usage : Mobile Phone,Access content via an electronic bar code (QR scanner) (e.g. eBay scanner),0.659,0.00402
+FINANCE,Financial Attitudes,Financial security after retirement is your own responsibility,0.658,0.00408
+DIGITAL,Types of internet usage : Tablet / iPad,School/College/University work,0.658,0.00411
+DIGITAL,Number of apps on mobile phone (free or paid),1-10.,0.656,0.00421
+POPULATION,Religion,Jewish,0.654,0.0044
+MARKETING CHANNELS,Channels Received,Mail - Addressed to 'The Householder' or 'The Occupier',0.654,0.00444
+DIGITAL,Types of internet usage : Mobile Phone,Read newspapers online,0.654,0.00437
+DIGITAL,Purchased on the internet,Sports equipment,0.652,0.00454
+FINANCE,Savings and Investments,Has a National Savings product,0.651,0.00464
+LEISURE TIME,Holiday Destination/Type,Europe (other),0.651,0.00464
+DIGITAL,Purchased on the internet,Beer/Wine/Spirits,0.648,0.00489
+FINANCE,Insurance and Pensions,Has pension scheme organised through company,0.647,0.00499
+DIGITAL,Types of internet usage : Mobile Phone,Donate to charity,0.647,0.00496
+FINANCE,Financial Attitudes,I am very good at managing money,0.644,0.00525
+FINANCE,Insurance and Pensions,Has Life Assurance,0.643,0.00537
+SHOPPING,Attitudes,I only shop at supermarkets that sell good quality fresh food,0.642,0.00545
+HOUSING,House Value,House Value 500k-750k,0.641,0.00553
+DIGITAL,Types of internet usage : Tablet / iPad,Take part in discussion groups/online forums,0.641,0.00553
+DIGITAL,Sites regularly visited,rightmove.co.uk,0.64,0.00568
+DIGITAL,Types of internet usage : Laptop or PC,Donate to charity,0.639,0.00573
+LEISURE TIME,Visit Pubs for a Meal - Day,Mass Market,0.637,0.00591
+FAMILY,Structure,Couple family no children,0.635,0.00615
+DIGITAL,Sites regularly visited,Asos.com,0.635,0.00616
+FINANCE,Loans,"Unsecured debt greater than 15,000",0.632,0.00652
+DIGITAL,Types of internet usage : Laptop or PC,Access news via news site (other than online newspapers),0.632,0.00647
+DIGITAL,Types of internet usage : Laptop or PC,Download a Podcast,0.63,0.00674
+DIGITAL,Types of internet usage : Mobile Phone,Download a Podcast,0.627,0.00711
+POPULATION,Country of Birth,Antarctica & Oceania,0.625,0.0073
+DIGITAL,Purchased on the internet,Eating out,0.624,0.00741
+DIGITAL,Sites regularly visited,theaa.com,0.623,0.00751
+DIGITAL,Types of internet usage : Laptop or PC,Read newspapers online,0.622,0.00762
+DIGITAL,Sites regularly visited,Net-a-Porter,0.622,0.00762
+FINANCE,Financial Attitudes,Uses contactless payments on debit card,0.62,0.00787
+DIGITAL,Smartphone Brand,Motorola,0.618,0.00815
+SHOPPING,High Street Retailers,Costa,0.618,0.00824
+LEISURE TIME,Holiday Destination/Type,Asia,0.618,0.00824
+DIGITAL,Types of internet usage : Mobile Phone,Instant messaging,0.617,0.00831
+ENVIRONMENT,Action,"Re-use items like empty bottles, tubs, jars, envelopes or paper",0.617,0.00832
+DIGITAL,Types of internet usage : Laptop or PC,Listen to the radio,0.614,0.00876
+DIGITAL,Types of internet usage : Laptop or PC,Post ratings and reviews,0.612,0.009
+FINANCE,Financial Attitudes,It is important to be well insured for everything,0.611,0.00911
+HOUSING,House Tenure,Owner occupied,0.609,0.0094
+DIGITAL,Regularly research on the internet,"Personal grooming products (e.g. skin care, fragrances, etc.)",0.608,0.00967
+DIGITAL,Sites regularly visited,Spotify,0.606,0.0099
+TRANSPORT,Travel To Work,Work mainly at or from home,0.605,0.01002
+LEISURE TIME,Daily Newspapers,The Independent,0.605,0.01004
+LEISURE TIME,Holiday Destination/Type,Australia / New Zealand,0.605,0.01005
+DIGITAL,Mobile phone,Has Mobile Phone with access to Internet,0.604,0.01023
+DIGITAL,Types of internet usage : Laptop or PC,Online auctions (e.g. ebay),0.604,0.01031
+DIGITAL,Types of internet usage : Tablet / iPad,Receive/Redeem coupons and vouchers,0.603,0.01043
+DIGITAL,Smartphone Brand,HTC,0.602,0.01053
+DIGITAL,Types of internet usage : Tablet / iPad,Instant messaging,0.602,0.01049
+DIGITAL,Regularly research on the internet,Musical equipment,0.602,0.01049
+DIGITAL,Sites regularly visited,Google.co.uk,0.6,0.01089
+ECONOMY,Social Grade,E,-0.899,0
+FINANCE,Financial Channel: Manage Current Account,In branch,-0.899,0
+FINANCE,Household Annual Income,"0-20,000",-0.895,0
+FINANCE,Benefits,Disability Living Allowance,-0.892,0
+LEISURE TIME,Daily Newspapers,Daily Star,-0.875,0
+EDUCATION,Highest Level of Qualifications (Adults),No formal qualifications,-0.863,1.00E-05
+ECONOMY,NS Socio-Economic Classifications,Routine occupations,-0.855,1.00E-05
+ENVIRONMENT,Attitude,There is too much concern with the environment: Agree,-0.852,1.00E-05
+LEISURE TIME,Interests & Hobbies,Gambling,-0.845,2.00E-05
+ECONOMY,Social Grade,D,-0.843,2.00E-05
+SHOPPING,Electrical Stores,Value,-0.843,2.00E-05
+HEALTH,Behaviours & Lifestyle,Eats vegetables 3 or less days per week,-0.838,3.00E-05
+LEISURE TIME,Interests & Hobbies,Angling,-0.823,5.00E-05
+DIGITAL,Sites regularly visited,Argos,-0.814,7.00E-05
+FINANCE,Financial Situation,Not saving,-0.812,8.00E-05
+ECONOMY,Occupation,Unemployed,-0.811,8.00E-05
+HEALTH,Behaviours & Lifestyle,Eats fruit 3 or less days per week,-0.811,8.00E-05
+FINANCE,Financial Situation,Just managing to make ends meet,-0.804,0.0001
+LEISURE TIME,Interests & Hobbies,TV,-0.795,0.00014
+LEISURE TIME,Magazines Read,TV,-0.79,0.00016
+DIGITAL,Sites regularly visited,Bet365.com,-0.789,0.00017
+DIGITAL,Internet Access: Frequency,Monthly,-0.788,0.00017
+ECONOMY,NS Socio-Economic Classifications,Semi-routine occupations,-0.782,0.00021
+SHOPPING,Clothing & Footwear Stores,Value,-0.781,0.00022
+LEISURE TIME,Daily Newspapers,The Sun,-0.781,0.00022
+LEISURE TIME,Daily Newspapers,Daily Mirror,-0.775,0.00025
+SHOPPING,Preferred Supermarket,Asda,-0.773,0.00027
+SHOPPING,Attitudes,I like to pay cash for everything I buy,-0.771,0.00029
+DIGITAL,Internet Access: Usage in Last Week,Not at all,-0.768,0.00032
+FINANCE,Benefits,Income Support,-0.765,0.00035
+SHOPPING,Furniture & Fittings Stores,Value,-0.765,0.00034
+EDUCATION,Highest Level of Qualifications (Adults),GCSE / O levels / CSE / School Certificate,-0.76,0.0004
+COMMUNITY SAFETY,Crime Survey for England,Being raped,-0.758,0.00042
+HOUSING,House Value,House Value up to 100k,-0.757,0.00043
+CONTACT,Preferred Channel,Phone or SMS,-0.755,0.00045
+DIGITAL,Internet Access: Frequency,Never used the internet,-0.753,0.00049
+COMMUNITY SAFETY,Crime Survey for England,Being physically attacked by strangers,-0.747,0.00057
+SHOPPING,Food Shopping,Budget Ranges,-0.744,0.00061
+HEALTH,Behaviours & Lifestyle,Current cigarette smoker,-0.743,0.00063
+FINANCE,Benefits,Job Seeker's Allowance,-0.743,0.00063
+HOUSING,House Tenure,Social renting,-0.738,0.00072
+FINANCE,Financial Channel: Manage Current Account,By post,-0.735,0.00078
+ECONOMY,Occupation,Skilled / Manual Worker,-0.733,0.00081
+DIGITAL,Sites regularly visited,Play.com,-0.732,0.00085
+ECONOMY,Economic Activity,Unemployed and seeking work,-0.708,0.00149
+DIGITAL,Internet Access: Frequency,Less than once a month,-0.701,0.00172
+FINANCE,Expenditure per person per week,Alcoholic beverages and tobacco,-0.696,0.00192
+FAMILY,Structure,Lone parent family with dependent children,-0.693,0.00205
+COMMUNITY SAFETY,Crime Survey for England,Having my car stolen,-0.681,0.0026
+SHOPPING,High Street Retailers,Poundland,-0.674,0.00301
+ECONOMY,NS Socio-Economic Classifications,Never worked and long-term unemployed,-0.671,0.00321
+COMMUNITY SAFETY,Crime Survey for England,Things being stolen from my car,-0.664,0.00364
+TRANSPORT,Travel To Work,Taxi,-0.658,0.00405
+LEISURE TIME,Charities,Disability,-0.651,0.00468
+ECONOMY,Social Grade,C2,-0.649,0.00485
+ECONOMY,Economic Activity,Other economic activity,-0.648,0.00489
+COMMUNITY SAFETY,Crime Survey for England,Being mugged and robbed,-0.627,0.00707
+ECONOMY,Occupation,Student,-0.623,0.00753
+DIGITAL,Types of internet usage : Laptop or PC,Gambling/Betting,-0.621,0.00774
+ECONOMY,NS Socio-Economic Classifications,Lower supervisory and technical occupations,-0.62,0.00787
+HOUSING,House Size,Number of Beds : 2,-0.614,0.00869
+TRANSPORT,Car Ownership,Number of Cars 0,-0.612,0.00904
